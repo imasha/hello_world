@@ -7,7 +7,7 @@ class Test {
 	    System.out.println("intellij 2");
     }
     void myMethod()1{
-
+        System.out.println("intellij 3");
     }
 
 }
