@@ -4,22 +4,10 @@ class Hello {
 
     Idea:1dsdsfgdfggfgfsffd
 
-    Idea:2
+    Isasasdea:2
+sasas
 
 Idea:3
 }
 
-aaaaaaaaaaa
-bbbbbbbbbb
 
-        ssssssssss
-dddddddddd
-
-
-zzzzzzzzzzzzzzzzzzzzzzzz
-zzzzzzzzzzzzzzzzzzzzzzzzzdddddddddd
-
-
-wwwwwwwwwwwwwwwwwwwwww
-wwwwwwwwwwwwwwwwwwwwwww
-lakklmad
