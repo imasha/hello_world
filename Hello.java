@@ -10,3 +10,5 @@ class Hello {
     Idea:2
 }
 >>>>>>> 5f16afeeae55d391b8a8f6836dabd2a25df0cace
+
+ffffffffff
