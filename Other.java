@@ -1,6 +1,6 @@
 class Other{
 sasasas
-
+sasas
 }
 
 
@@ -9,7 +9,8 @@ aaaaaaaaaadsd
         dsd
 bbbbbbbbbb
 11111
-22ffff22
+2222
 
 fkkkddddk
+fkksaskk
 
