@@ -20,7 +20,7 @@ comB
 
 comC
 
-comB1comMaster8
+comB1testBBBB
 
 comB2
 
@@ -34,4 +34,6 @@ comB5
 
 comB6
 
-comB7comMaster7
+testBBBB
+comB7testBBBB
+testBBBB
